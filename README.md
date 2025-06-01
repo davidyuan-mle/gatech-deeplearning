@@ -1,1 +1,1 @@
-# gatech-deeplearning
+# GaTech - Deep Learning Course
